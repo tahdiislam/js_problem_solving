@@ -13,3 +13,20 @@ while (number < 11){
     number++;
 }
 
+// print 1 to 20 even number
+
+var evenNumber = 0;
+
+while (evenNumber <= 20){
+    console.log(evenNumber);
+    evenNumber = evenNumber + 2;
+}
+
+// print 1 to 20 bijor number 
+
+var bijorNumber = 1;
+
+while(bijorNumber <= 20){
+    console.log(bijorNumber);
+    bijorNumber = bijorNumber + 2;
+}
