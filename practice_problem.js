@@ -90,5 +90,10 @@ var arrayLength = [23, 24, 35, 13, 32, 55, 22, 11];
 
 // var arrayItem = arrayLength.push(4343) 
 
-var arrayItem = arrayLength.pop();
-console.log(arrayLength)
+// var arrayItem = arrayLength.pop();
+
+// var arrayItem = arrayLength.shift()
+
+// var arrayItem = arrayLength.unshift(343)
+// console.log(arrayLength)
+
