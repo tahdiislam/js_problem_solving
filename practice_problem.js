@@ -16,4 +16,7 @@ var changeValue = 3;
 changeValue = 6;
 
 // console.log(changeValue);
-
+    
+/* 
+    6. In JavaScript there are 5 different type of variable String, number, boolean, object, function.
+*/
