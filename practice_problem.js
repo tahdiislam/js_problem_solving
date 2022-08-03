@@ -112,9 +112,14 @@ if (myMoney >= 80000){
 } else{
   console.log('I will happy with my phone')
 }
-*/
-
+/*
 var funLoop = 'আসকে আমার মন ভালো নেই ' ;
 for (var i = 1; i < 40; i++){
   console.log(funLoop);
+}
+*/
+var learnItems = ['html', 'css', 'bootstrap', 'tailwind', 'Javascript'];
+for (var i = 0; i < learnItems.length; i++){
+  var learnItem = learnItems[i];
+  console.log(learnItem);
 }
