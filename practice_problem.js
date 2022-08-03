@@ -117,9 +117,36 @@ var funLoop = 'আসকে আমার মন ভালো নেই ' ;
 for (var i = 1; i < 40; i++){
   console.log(funLoop);
 }
-*/
+/*
 var learnItems = ['html', 'css', 'bootstrap', 'tailwind', 'Javascript'];
 for (var i = 0; i < learnItems.length; i++){
   var learnItem = learnItems[i];
   console.log(learnItem);
 }
+*/
+/* 
+var i = 58;
+while (i <= 98){
+  console.log(i)
+  i++;
+}
+*/
+/* 
+for(i=412; i<=456; i += 2){
+  console.log(i)
+}
+*/
+/* 
+for(i=581;i<=623;i+=2){
+  console.log(i)
+}
+*/
+/*
+var mobileModels = ['Nokia', 'Walton', 'Samsung','Realme', 'Huawei', 'Oneplus'];
+var num = 0;
+while(num < mobileModels.length){
+  var mobileModel = mobileModels[num]
+  console.log(mobileModel);
+  num++
+}
+*/
