@@ -80,10 +80,15 @@ var convertToFloat = parseFloat(fixNum)
 var arrayLength = [23, 24, 35, 13, 32, 55, 22, 11];
 // console.log(arrayLength.length)
 
-// console.log(arrayLength.indexOf(2334))
+// console.log(arrayLength.indexOf(32))
 
 // console.log(arrayLength[3])
 
-arrayLength[4] = "Tahdi Islam";
+// arrayLength[4] = "Tahdi Islam";
 
+// console.log(arrayLength)
+
+// var arrayItem = arrayLength.push(4343) 
+
+var arrayItem = arrayLength.pop();
 console.log(arrayLength)
