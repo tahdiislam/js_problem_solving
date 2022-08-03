@@ -27,3 +27,12 @@ changeValue = 6;
         1. primitive data type ...there are different kind of primitive data type .. string, number, boolean, undefined, symbol, null
         2. non primitive data type ... in JavaScript object is the non primitive data type. 
 */
+
+/* 
+    8. Variable naming convention
+        1. space are not allowed in variable names.
+        2. Only letters, digits, underscore, and dollar signs are permitted in variable names.
+        3. Case matters when it comes to variable name.
+        4. A letter (alphabet), an underscore(_), or a dollor sign ($) must be the first character in a variable name, any other special characters must not be taken.
+        4. Certain terms such as reserved words in JavaScript shouldn't used to name variables.
+*/
