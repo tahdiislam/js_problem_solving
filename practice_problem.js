@@ -97,3 +97,16 @@ var arrayLength = [23, 24, 35, 13, 32, 55, 22, 11];
 // var arrayItem = arrayLength.unshift(343)
 // console.log(arrayLength)
 
+// problem 24
+
+var myMoney = 50000;
+
+if (myMoney >= 80000){
+    console.log("I will buy a mackbook")
+} else if (myMoney >= 60000){
+    console.log("I will Buy a gaming Laptop")
+} else if (myMoney >= 40000) {
+    console.log("I will buy a lenovo yoga")
+} else if (myMoney >= 20000) {
+    console.log("I will buy a second hand laptop")
+}
