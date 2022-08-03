@@ -61,3 +61,16 @@ plusOne++;
 plusOne--;
 
 // console.log(plusOne);
+
+// 11. parseFloat, parseInt, toFixed
+
+var firstNum = 7.3412;
+var lastNum = 2.2342;
+
+var divition = firstNum / lastNum;
+
+// console.log(divition);
+
+var fixNum = divition.toFixed(2);
+var convertToFloat = parseFloat(fixNum)
+// console.log(convertToFloat)
