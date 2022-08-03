@@ -150,3 +150,21 @@ while(num < mobileModels.length){
   num++
 }
 */
+/* 
+for (i = 30; i <= 86; i++){
+    console.log(i);
+    if ( i > 43){
+        break;
+    }
+} 
+*/
+/* 
+var bookPrices = [120, 250, 155, 170, 130, 180, 190, 350, 270, 140];
+
+for(i = 0; i < bookPrices.length; i++){
+    var bookPrice = bookPrices[i];
+    console.log(bookPrice)
+    if (bookPrice > 200) {
+        continue;
+    }
+} */

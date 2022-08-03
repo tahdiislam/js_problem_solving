@@ -1,4 +1,4 @@
-// console.log(3434)
+/* // console.log(3434)
 
 var fruits = ['Apple', 'Banana', 'Orange'];
 
@@ -77,4 +77,4 @@ if ((firstArm == secondArm && firstArm !== thirdArm) || (firstArm == thirdArm &&
     console.log("You can make a isosceles triangle");
 } else{
     console.log("You can't make a isosceles triangle");
-}
+} */

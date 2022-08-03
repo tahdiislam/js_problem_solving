@@ -1,4 +1,4 @@
-// console.log("Hello World")
+/* // console.log("Hello World")
 
 // ````````````````````````
 // First problem
@@ -55,4 +55,4 @@ console.log(fulSec);
 var num = 119;
 var numDevider = 10;
 var reminder = num % numDevider;
-console.log(reminder);
+console.log(reminder); */

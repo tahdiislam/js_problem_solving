@@ -1,4 +1,4 @@
-var roastGiven = 0;
+/* var roastGiven = 0;
 while(roastGiven < 8) {
     // console.log('Roast den please !!')
     // console.log(roastGiven);
@@ -30,3 +30,4 @@ while(bijorNumber <= 20){
     console.log(bijorNumber);
     bijorNumber = bijorNumber + 2;
 }
+ */

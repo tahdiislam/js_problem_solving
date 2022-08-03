@@ -1,4 +1,4 @@
-var number = [34, 343, 232, 3434, 3434, 767, 3456, 45645];
+/* var number = [34, 343, 232, 3434, 3434, 767, 3456, 45645];
 var element = number[1];
 
 number[3] = 3042;
@@ -22,3 +22,4 @@ number[5] = "Tahdi Islam";
 
 console.log(number);
 
+ */

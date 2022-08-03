@@ -1,4 +1,4 @@
-var i = 0;
+/* var i = 0;
 for (i=0; i<5; i++){};
 console.log(i);
 
@@ -22,7 +22,7 @@ for (var i=0; i<10; i++){
 var name01 = "false";
 console.log(typeof name01);
 
-// 5th  */
+// 5th  
 
  var i = 5;
 for (; i<5; i++) {
@@ -35,4 +35,4 @@ for (; i<5; i++) {
 var i = 5;
 for (i < 5; i++) {
     console.log(i);
-}
+} */
