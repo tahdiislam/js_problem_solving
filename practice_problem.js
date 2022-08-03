@@ -98,7 +98,7 @@ var arrayLength = [23, 24, 35, 13, 32, 55, 22, 11];
 // console.log(arrayLength)
 
 // problem 24
-
+/* 
 var myMoney = 50000;
 
 if (myMoney >= 80000){
@@ -109,4 +109,12 @@ if (myMoney >= 80000){
     console.log("I will buy a lenovo yoga")
 } else if (myMoney >= 20000) {
     console.log("I will buy a second hand laptop")
+} else{
+  console.log('I will happy with my phone')
+}
+*/
+
+var funLoop = 'আসকে আমার মন ভালো নেই ' ;
+for (var i = 1; i < 40; i++){
+  console.log(funLoop);
 }
