@@ -74,3 +74,8 @@ var divition = firstNum / lastNum;
 var fixNum = divition.toFixed(2);
 var convertToFloat = parseFloat(fixNum)
 // console.log(convertToFloat)
+
+// 12. 
+
+var arrayLength = [23, 24, 35, 13, 32, 55, 22, 11];
+// console.log(arrayLength.length)
