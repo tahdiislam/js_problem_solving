@@ -6,4 +6,6 @@
 
     3. Variable means anything that can vary. in JavaScript, a variable stores the data value that can be changed later on. Use the reserved keyword var to declare a variable in JavaScript.
 
+    4. Always declare a JavaScriopt variable with var, let, or const. The var keyword is used in all JavaScript code from 1995 to 2015. The let and const keywords were added to JavaScript in 2015.
+
 */
