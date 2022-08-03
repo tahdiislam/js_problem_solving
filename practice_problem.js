@@ -20,3 +20,10 @@ changeValue = 6;
 /* 
     6. In JavaScript there are 5 different type of variable String, number, boolean, object, function.
 */
+
+/* 
+    7. In JavaScript there are 2 different kind of data type 
+        primitive data type & non primitive data type
+        1. primitive data type ...there are different kind of primitive data type .. string, number, boolean, undefined, symbol, null
+        2. non primitive data type ... in JavaScript object is the non primitive data type. 
+*/
