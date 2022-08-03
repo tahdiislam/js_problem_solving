@@ -36,3 +36,18 @@ changeValue = 6;
         4. A letter (alphabet), an underscore(_), or a dollor sign ($) must be the first character in a variable name, any other special characters must not be taken.
         4. Certain terms such as reserved words in JavaScript shouldn't used to name variables.
 */
+
+
+    // 9. operator short hand
+
+var operShortHand = 65;
+
+operShortHand += 3; //opershortHand = operShortHand + 3
+
+operShortHand -= 5; //operShortHand = operShortHand -5
+
+operShortHand *= 2; //operShortHand = operShortHand * 2
+
+operShortHand /= 2; //operShortHand = operShortHand /2
+
+// console.log(operShortHand)
