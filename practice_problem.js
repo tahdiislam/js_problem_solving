@@ -51,3 +51,13 @@ operShortHand *= 2; //operShortHand = operShortHand * 2
 operShortHand /= 2; //operShortHand = operShortHand /2
 
 // console.log(operShortHand)
+
+// 10 ++, --
+
+var plusOne = 5;
+
+plusOne++; 
+
+plusOne--;
+
+// console.log(plusOne);
